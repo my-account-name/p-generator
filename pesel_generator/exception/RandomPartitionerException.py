@@ -1,0 +1,3 @@
+
+class RandomPartitionerException(Exception):
+    pass

@@ -1,0 +1,3 @@
+
+class PeselGeneratorException(Exception):
+    pass
